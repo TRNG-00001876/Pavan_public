@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1fe8e0b-d5bd-42be-a02b-582e3dde0522" name="Changes" comment="" />
+    <list default="true" id="db15a7b5-a914-4735-a3e0-f8b87b4f981b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2ewIAfsnJrKcaDR3tJEObVwULb4" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2exM3s7GDo8x5TVYY7mcZ8tLRZK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,18 +24,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1fe8e0b-d5bd-42be-a02b-582e3dde0522" name="Changes" comment="" />
-      <created>1712809074633</created>
+      <changelist id="db15a7b5-a914-4735-a3e0-f8b87b4f981b" name="Changes" comment="" />
+      <created>1712841584268</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712809074633</updated>
+      <updated>1712841584268</updated>
     </task>
     <servers />
   </component>
