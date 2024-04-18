@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 public class Log {
 
-    public static  final Logger logging= LoggerFactory.getLogger(Main.class);
+    public static  final Logger logging= LoggerFactory.getLogger(Log.class);
     public static void main(String[] args) {
         logging.info("Program Started");
         logging.warn("There Is A Warning");
